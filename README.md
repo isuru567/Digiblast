@@ -20,5 +20,9 @@ Digiblast is a modern web application designed to showcase digital services and 
 * `Assets/` - Organized folder for images, icons, and UI components.
 * `Contact/` - Lead capture and communication module.
 
+## Project Preview
+![Project Screenshot](ss1.png)
+![Project Screenshot](ss2.png)
+
 ---
 **Developed by:** Isuru Shehan 
